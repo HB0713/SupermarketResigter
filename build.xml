@@ -35,7 +35,7 @@
 		<jar jarfile="${dist.dir}/${projectName}-${DSTAMP}.jar" basedir="${build.dir}" >
 		    <manifest>
 			<!-- create an executable Jar -->
-			<attribute name="Main-Class" value="test.unit.TestProductTable" />
+			<attribute name="Main-Class" value="src.test.unit.TestProductTable" />
 		    </manifest>
 		</jar>
 	</target>
