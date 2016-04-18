@@ -1,4 +1,4 @@
-<project name="AntJavaProject" default="main" basedir=".">
+<project name="SupermarketRegister" default="main" basedir=".">
 	<description>
 		Create a Java Project (JAR) with Ant build script
 	</description>
