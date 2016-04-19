@@ -1,6 +1,2 @@
 language: java
-script:
-	- ant compile
-	- ant dist
-	- ant clean
-	- ant
+script: ant main
