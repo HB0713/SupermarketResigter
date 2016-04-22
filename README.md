@@ -1,4 +1,4 @@
-#Java + Junit + Ant Template Project
+#Java + Junit + Ant Supermarket Register Project
 
 The Supermarket Register project is written in Java and configured with Junit and Ant. It is integrated with Continous Integration Travis CI.
 
